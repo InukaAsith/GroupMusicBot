@@ -19,7 +19,7 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 Created By 🛠", url="https://t.me/@RI024")
+                        "🛠 Created By 🛠", url="https://t.me/RI024")
                   ],[
                     InlineKeyboardButton(
                         "💬 Group", url="https://t.me/antigabutbrothers"
@@ -43,7 +43,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "⚙️ System Plugin ⚙️", url="https://t.me/RI024")
+                        "📖 Owner 📖", url="https://t.me/RI024")
                 ]
             ]
         )
