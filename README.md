@@ -6,7 +6,7 @@
   <img src="https://telegra.ph/file/e1d2e60a756b2cda8a058.jpg">
 </p>
 
-<h3>Requirements 📝</h3>
+<h3>Gereksinimler📝</h3>
 
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
