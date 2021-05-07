@@ -35,7 +35,7 @@ Get pyrogram STRING_NAME from here ⬇️
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@SpEcHiDe/GenerateStringSession)
 
 ### Credits
-- [ImJanindu](https://github.com/Mehmetbaba55): Dev
+- [Mehmetbaba55](https://github.com/Mehmetbaba55): Dev
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo](https://github.com/suprojects/CallsMusic)
 - [Infinity BOTs](https://t.me/Infinity_BOTs)
