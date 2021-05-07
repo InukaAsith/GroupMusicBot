@@ -1,4 +1,4 @@
-<h2 align="centre">Music Play Bot 🎵</h2>
+<h2 align="centre">Türkish Voice Music 🇹🇷 🎵</h2>
 
 ### Here the advanced branch with more features 🙂
 
