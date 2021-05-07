@@ -13,14 +13,14 @@
 - Python 3.7+
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
 
-### Commands 🛠
+### Komutlar🛠
 #### For all in group
 - `/play` - reply to youtube url or song file to play song
 - `/ytp <song name>` - play song without youtube url or song file (best method)
 - `/song <song name>` - download songs you want quickly
 - `/search <query>` - search videos on youtube with details
 
-#### Admins only
+#### Sadece Adminler 
 - `/pause` - pause song play
 - `/resume` - resume song play
 - `/skip` - play next song
