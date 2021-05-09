@@ -1,4 +1,4 @@
-<h2 align="centre">Music Play Bot 🎵</h2>
+<h2 align="centre">Türkish Voice Music 🇹🇷 🎵</h2>
 
 ### Here the advanced branch with more features 🙂
 
@@ -6,21 +6,21 @@
   <img src="https://telegra.ph/file/e1d2e60a756b2cda8a058.jpg">
 </p>
 
-<h3>Requirements 📝</h3>
+<h3>Gereksinimler📝</h3>
 
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
 - Python 3.7+
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
 
-### Commands 🛠
+### Komutlar🛠
 #### For all in group
 - `/play` - reply to youtube url or song file to play song
 - `/ytp <song name>` - play song without youtube url or song file (best method)
 - `/song <song name>` - download songs you want quickly
 - `/search <query>` - search videos on youtube with details
 
-#### Admins only
+#### Sadece Adminler 
 - `/pause` - pause song play
 - `/resume` - resume song play
 - `/skip` - play next song
@@ -35,7 +35,7 @@ Get pyrogram STRING_NAME from here ⬇️
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@SpEcHiDe/GenerateStringSession)
 
 ### Credits
-- [ImJanindu](https://github.com/Imjanindu): Dev
+- [Mehmetbaba55](https://github.com/Mehmetbaba55): Dev
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo](https://github.com/suprojects/CallsMusic)
 - [Infinity BOTs](https://t.me/Infinity_BOTs)
