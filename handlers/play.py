@@ -214,7 +214,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             lel.edit(
-                "❌ Song not found.\n\nTry another song or maybe spell it properly."
+                "❌ Lagu tidak ditemukan.\n\nCoba lagu lain atau gunakan keyword yang lebih spesifik."
             )
             print(str(e))
             return
@@ -223,8 +223,13 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="Watch On YouTube 🎬",
-                            url=f"{url}")
+                            text="Instagram",
+                            url=f"https://instagram.com/zekiloi"),
+
+
+                        InlineKeyboardButton(
+                            text="Channel Bucin",
+                            url=f"https://t.me/randfeels")
 
                     ]
                 ]
@@ -246,7 +251,8 @@ async def play(_, message: Message):
         await message.reply_photo(
         photo="final.png",
         reply_markup=keyboard,
-        caption="▶️ **Playing** here the song requested by {} via DaisyX Music 😜".format(
+        caption=f"🏷 **Judul:** [{title[:60]}]({url})\n**⏱ Durasi:** {duration}\n" \
+                + f"💡 **Status:** Playing\n🎧 **Permintaan:** {requested_by}".format(
         message.from_user.mention()
         ),
     )
